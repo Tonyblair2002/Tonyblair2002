@@ -1,8 +1,8 @@
 ## Hii, I am Pranitha Seemalamudi 👋
 
 
-- 🔭 I’m currently working on Unity software creating AR/VR models
-- 🌱 I’m currently learning C++, Cloud & Machine learning models
+- 🔭 I’m currently working on Azure Devops, Git and Vscode.
+- 🌱 I’m currently as Data Insights Analyst, Cloud & Machine learning models
 - 👯 I’m looking for Real time projects and internships 
 - 🤔 I’m looking for help with unity software
 - 💬 Ask me about Machine learning stuff.
